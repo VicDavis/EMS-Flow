@@ -14,9 +14,9 @@
 
 ## Скачать
 
-- [Установщик EMS Flow, сборка 0192](https://github.com/VicDavis/EMS-Flow/releases/download/build-0192-alpha/EMS.Flow.Alpha.Setup.Build.0192.exe)
-- [Портативная версия EMS Flow, сборка 0192](https://github.com/VicDavis/EMS-Flow/releases/download/build-0192-alpha/EMS.Flow.Alpha.Portable.Build.0192.zip)
-- [Страница релиза и описание изменений](https://github.com/VicDavis/EMS-Flow/releases/tag/build-0192-alpha)
+- [Установщик EMS Flow, сборка 0192](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0192/EMS.Flow.Alpha.Setup.Build.0192.exe)
+- [Портативная версия EMS Flow, сборка 0192](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0192/EMS.Flow.Alpha.Portable.Build.0192.zip)
+- [Страница релиза и описание изменений](https://github.com/VicDavis/EMS-Flow/releases/tag/alpha-0192)
 
 > **Важно:** программа находится на стадии ранней альфы. Она может содержать ошибки, хотя основными функциями уже можно пользоваться. Правила, цены, процедуры и реплики рассчитаны исключительно на сервер Seattle. На других серверах условия могут отличаться.
 
