@@ -5,18 +5,27 @@
 <h1 align="center">EMS Flow</h1>
 
 <p align="center">Настольный ассистент для сотрудников EMS сервера Seattle в Majestic RP.</p>
-<p align="center"><strong>Ранняя альфа · Build 0246 · Windows x64 · Только Seattle</strong></p>
+<p align="center"><strong>Ранняя альфа · Build 0248 · Windows x64 · Только Seattle</strong></p>
 
 ## Скачать
 
-- [Установщик — Build 0246](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0246/EMS.Flow.Alpha.Setup.Build.0246.exe)
-- [Портативная версия — Build 0246](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0246/EMS.Flow.Alpha.Portable.Build.0246.zip)
-- [Релиз 0246: изменения, файлы и ограничения](https://github.com/VicDavis/EMS-Flow/releases/tag/alpha-0246)
+- [Установщик — Build 0248](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0248/EMS.Flow.Alpha.Setup.Build.0248.exe)
+- [Портативная версия — Build 0248](https://github.com/VicDavis/EMS-Flow/releases/download/alpha-0248/EMS.Flow.Alpha.Portable.Build.0248.zip)
+- [Релиз 0248: изменения, файлы и ограничения](https://github.com/VicDavis/EMS-Flow/releases/tag/alpha-0248)
 - [Все выпуски](https://github.com/VicDavis/EMS-Flow/releases)
 
-> Ранняя альфа: возможны ошибки. Оверлей и автоотправка требуют проверки внутри GTA. В Build 0246 изменён способ ввода текста, но работа на всех системах и приём текста игровым чатом не подтверждены. Правила, цены и реплики рассчитаны на Seattle.
+> Ранняя альфа: возможны ошибки. Оверлей, перетаскивание окна и автоотправку необходимо проверять внутри GTA на своей системе. Правила, цены и реплики рассчитаны на Seattle.
 
-## Что нового в 0245–0246
+## Что нового в 0247–0248
+
+- Центрирование после выхода из полного экрана и область перетаскивания окна, включая прозрачный режим.
+- Единое компактное меню с цветными выдвижными ярлыками; исправлены цвета ярлыков в прозрачных настройках.
+- «Фидбэк» с новой формой и компактным меню. Внешние ссылки открывают браузер по умолчанию, которому EMS Flow уступает передний план.
+- Переключатель ДБ без расшифровки и дат; удалена постоянная плашка предпросмотра поиска.
+
+[Подробности обновления 0248](docs/RELEASE_0248.md).
+
+### Ранее, в 0245–0246
 
 - Палитра реплик из 14 оттенков; Enter сохраняет редактирование, Escape отменяет изменения.
 - Сердцебиение звучит только при запуске приложения.
@@ -52,7 +61,7 @@ EMS Flow — игровая шпаргалка и помощник по марш
 ### Установщик
 
 1. Закройте EMS Flow.
-2. Скачайте `EMS.Flow.Alpha.Setup.Build.0246.exe`.
+2. Скачайте `EMS.Flow.Alpha.Setup.Build.0248.exe`.
 3. Установите поверх прежней версии в ту же папку приложения.
 4. Сохранения удалять не нужно. Перед обновлением можно экспортировать настройки в приложении.
 
@@ -60,7 +69,7 @@ EMS Flow — игровая шпаргалка и помощник по марш
 
 ### Портативная версия
 
-1. Скачайте `EMS.Flow.Alpha.Portable.Build.0246.zip`.
+1. Скачайте `EMS.Flow.Alpha.Portable.Build.0248.zip`.
 2. Распакуйте и запустите EXE из архива.
 3. При обновлении закройте приложение и замените portable-файл новой версией.
 
@@ -166,8 +175,8 @@ Alt+D не должен удалять значок с панели задач. 
 ## SHA-256
 
 ```text
-e3d0ac437d92aa6b8df84ce5dffb8d387f5ae019227462fe0c3856ac3f71a8de  EMS.Flow.Alpha.Setup.Build.0246.exe
-6f5600b97a6648f3171f30bc90bad6cd33d88a8fda4c4c75a8f600e683be8424  EMS.Flow.Alpha.Portable.Build.0246.zip
+6b27cf286bb59583069717b230124cfeb32cb64230480d9aaf2d4e942d4c809f  EMS.Flow.Alpha.Setup.Build.0248.exe
+a123c07998051d81ae031120bb2864ee7fc173a755bd38e9e1f6b52489f0b174  EMS.Flow.Alpha.Portable.Build.0248.zip
 ```
 
 [Файл контрольных сумм](SHA256SUMS.txt). Обычная установка не требует ручной проверки.
@@ -199,7 +208,3 @@ e3d0ac437d92aa6b8df84ce5dffb8d387f5ae019227462fe0c3856ac3f71a8de  EMS.Flow.Alpha
 Разработчик: **Viс Sprance**. Другие проекты — в [профиле VicDavis](https://github.com/VicDavis).
 
 © 2026 Vixpress. Все права защищены. Распространяется готовая альфа-сборка; разрешение на публикацию, изменение или распространение исходного кода не предоставляется.
-
-
-
-
